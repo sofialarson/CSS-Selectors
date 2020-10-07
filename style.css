@@ -1,0 +1,17 @@
+div.logo {
+  display: flex;
+  justify-content: center;
+}
+
+h2, h3, p {
+  color: white
+}
+
+h1 {
+  color: #69faff;
+}
+
+div.friendphotos{
+  display: flex;
+  justify-content: space-between;
+}
